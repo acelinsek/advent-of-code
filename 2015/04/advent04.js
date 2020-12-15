@@ -1,6 +1,6 @@
 const md5 = require('./JavaScript-MD5-2.18.0/js/md5');
 
-const key = 'ckczppom';
+const key = "I AM NOT SUPPOSED TO SHOW YOU THE ORIGINAL INPUT";
 
 let stop = false;
 let number = 0;
